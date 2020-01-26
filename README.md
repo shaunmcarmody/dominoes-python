@@ -48,6 +48,5 @@ Player Alice has won!
 ```
 git clone https://github.com/shaunmcarmody/dominoes-python.git
 cd dominoes-python
-yarn
-yarn start
+python3 index.py
 ```
